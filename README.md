@@ -3,7 +3,7 @@ Many networks in CNN
 
 
 CNN_0.ipynb
-===========
+------------
     搭一个最简版神经网络，实现 Mnist 手写识别
     
 CNN_1.ipynb
