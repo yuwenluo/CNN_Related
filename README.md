@@ -1,2 +1,2 @@
 # CNN_Related
-Many network in CNN
+Many networks in CNN
